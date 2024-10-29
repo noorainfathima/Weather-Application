@@ -1,5 +1,5 @@
 # Weather_Application
-Here’s a README description by Noorain  template for a weather app project built with HTML, CSS, and JavaScript:
+Here’s a README description by Noorain for a weather app project built with HTML, CSS, and JavaScript:
 
 ---
 
